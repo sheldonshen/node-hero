@@ -1,0 +1,21 @@
+//Node基本模块
+//global(在Node.js环境中,也有唯一的全局对象,叫global)
+
+//process(也是Node.js提供的一个对象,它代表当前Node.js进程,)
+//process.nextTick()将在下一轮事件循环中调用
+process.nextTick(function(){
+	console.log("nextTick callback!");
+});
+//程序即将退出时的回调函数
+process.on("exit",function(code){
+	console.log("about to exit with code;"+code);
+});
+console.log("nextTick was set!");
+
+//判断javascript执行环境
+if(typeof(window)==='undefined'){
+	console.log("node.js");
+}else{
+	console.log("browser");
+}
+//Node基本模块
