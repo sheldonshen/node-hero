@@ -23,3 +23,5 @@ http://cnodejs.org/topic/51cd020573c638f3705329cb   千里之行始于足下，
 http://cnodejs.org/  <br>
 #node框架分类
 http://nodeframework.com/ <br>
+#图书
+http://search.jd.com/Search?keyword=node.js&enc=utf-8&wq=node.js&pvid=0g9w7qui.un9mz4 jd搜索"node.js"<br>
