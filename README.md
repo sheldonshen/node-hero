@@ -7,7 +7,8 @@ http://wiki.jikexueyuan.com/list/nodejs/           Node.js极客学院<br>
 https://cnodejs.org/getstart                       cnnode node.js新手入门<br>
 #Node framework
 express<br>
-koa<br>
+koa2<br>
+meteor<br>
 #中文文档,手册,API
 http://nodeapi.ucdok.com/#/api/                     Node.js v4.2.4 手册 & 文档<br>
 https://nodejs.org/dist/latest-v4.x/docs/api/       Node.js v4.6.1 Documentation<br>
@@ -15,6 +16,7 @@ https://nodejs.org/dist/latest-v4.x/docs/api/       Node.js v4.6.1 Documentation
 http://www.icoolxue.com/album/show/89/   Uspcat NodeJS视频教程<br>
 https://www.youtube.com/playlist?list=PLO5e_-yXpYLCDnBcSGNavNbhHB6XhSJhL  NodeJS项目实战—仿cnodejs社区论坛<br>
 http://wiki.jikexueyuan.com/project/express-mongodb-setup-blog/           使用 Express + MongoDB 搭建多人博客<br>  
+http://www.jikexueyuan.com/course/nodedotjs                               极客学院所有node.js视频(主要node和meteor)<br>
 #youtube
 https://www.youtube.com/watch?v=Tf0tfQiSVv0&list=PLO-hrPk0zuI18xlF_480s6UiaGD7hBqJa   Learn NodeJS building 10 projects(86)<br>
 https://www.youtube.com/watch?v=pHCfWPZY8dA&list=PLVjmhljdg0BEj7EpSXaxYJiCWwHwXhuV1   Learning NodeJs(94)<br>
